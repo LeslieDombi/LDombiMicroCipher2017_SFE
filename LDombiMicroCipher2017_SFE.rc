@@ -1,0 +1,2 @@
+#define VS_VERSION_INFO 1
+#include "VersionInfo.rc2"
